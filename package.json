@@ -1,0 +1,35 @@
+{
+  "name": "mongdb-strapi",
+  "private": true,
+  "version": "0.1.0",
+  "description": "A Strapi application",
+  "scripts": {
+    "dev": "strapi develop",
+    "start": "strapi start",
+    "build": "strapi build",
+    "strapi": "strapi"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "strapi": "3.0.0-beta.17.5",
+    "strapi-admin": "3.0.0-beta.17.5",
+    "strapi-utils": "3.0.0-beta.17.5",
+    "strapi-plugin-content-type-builder": "3.0.0-beta.17.5",
+    "strapi-plugin-content-manager": "3.0.0-beta.17.5",
+    "strapi-plugin-users-permissions": "3.0.0-beta.17.5",
+    "strapi-plugin-email": "3.0.0-beta.17.5",
+    "strapi-plugin-upload": "3.0.0-beta.17.5",
+    "strapi-hook-mongoose": "3.0.0-beta.17.5"
+  },
+  "author": {
+    "name": "A Strapi developer"
+  },
+  "strapi": {
+    "uuid": "fd7367f4-7890-43e0-b0d5-58c77c4c341b"
+  },
+  "engines": {
+    "node": ">=10.0.0",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT"
+}
