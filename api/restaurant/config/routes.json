@@ -15,6 +15,13 @@
       "config": {
         "policies": []
       }
+    }, {
+      "method": "GET",
+      "path": "/restaurants/upload",
+      "handler": "Restaurant.upload",
+      "config": {
+        "policies": []
+      }
     },
     {
       "method": "GET",

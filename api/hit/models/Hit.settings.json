@@ -1,0 +1,22 @@
+{
+  "connection": "default",
+  "collectionName": "hit",
+  "info": {
+    "name": "hit",
+    "description": ""
+  },
+  "options": {
+    "timestamps": [
+      "createdAt",
+      "updatedAt"
+    ]
+  },
+  "attributes": {
+    "count": {
+      "type": "integer"
+    },
+    "data": {
+      "type": "date"
+    }
+  }
+}
