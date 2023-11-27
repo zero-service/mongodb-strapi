@@ -15,7 +15,7 @@
     "qiniu": "^7.2.2",
     "sqreen": "^1.38.1",
     "strapi": "3.0.0-beta.17.5",
-    "strapi-admin": "3.0.0-beta.17.5",
+    "strapi-admin": "3.0.0-beta.18.4",
     "strapi-hook-mongoose": "3.0.0-beta.17.5",
     "strapi-plugin-content-manager": "3.0.0-beta.17.5",
     "strapi-plugin-content-type-builder": "3.0.0-beta.17.5",
